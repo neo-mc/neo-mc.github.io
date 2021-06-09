@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Recently merged features in הϵѻ MCEdit"
 date:   2021-03-08 3:01 +0100
-type: post
-categories: overview
+breadcrumb: true
+categories: changelog
 tags: features
 ---
 
