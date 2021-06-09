@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "More new features added"
 date:   2021-03-21 9:43 +0100
-type: post
-categories: overview
+breadcrumb: true
+categories: changelog
 tags: features
 ---
 
