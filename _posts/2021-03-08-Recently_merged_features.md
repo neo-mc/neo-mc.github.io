@@ -4,7 +4,7 @@ title:  "Recently merged features in הϵѻ MCEdit"
 date:   2021-03-08 3:01 +0100
 subheadline: "MCEdit הϵѻteric features"
 meta_teaser: "New features added to הϵѻ MCEdit in March – scripting support, CTags quick jumps, QuickPreview window, periodic command support, MultiSearch grepping of any listbox."
-teaser: "New features added to הϵѻ MCEdit in March – scripting support, CTags quick jumps, QuickPreview window, periodic command support, MultiSearch grepping of any listbox."
+teaser: "New features added to הϵѻ MCEdit in March<br/> – scripting support,<br/>– CTags quick jumps,<br/>– QuickPreview window,<br/>– periodic command support,<br/>– MultiSearch grepping of any listbox."
 breadcrumb: true
 categories: 
     - changelog

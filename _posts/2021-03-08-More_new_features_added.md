@@ -3,8 +3,8 @@ layout: page
 title:  "More new features added"
 date:   2021-04-03 9:43 +0100
 subheadline: "MCEdit הϵѻteric features"
+teaser: "New features added to הϵѻ MCEdit in April <br/>- CTags completion,<br/>- peek at prototype,<br/>- status message line."
 meta_teaser: "New features added to הϵѻ MCEdit in April – CTags completion, peek at prototype and status message line."
-teaser: "New features added to הϵѻ MCEdit in April – CTags completion, peek at prototype and status message line."
 breadcrumb: true
 categories: 
     - changelog
