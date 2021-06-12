@@ -13,7 +13,7 @@
   - title: "S-Lang Light Scripting Engine²"
     url: "/news/docs/Scripting-engine/"
   - title: "Ag/Ack/RipGrep Interface²"
-    url: "/news/docs/ag-ack-ripgrep-interface/"
+    url: "/news/docs/Ag-Ack-Ripgrep-Interface/"
   - title: "Completion From CTags³"
     url: "/news/docs/ctags-completion/"
   - title: "Other CTags Features³"
@@ -41,6 +41,16 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+
+- title: Buy
+  url: "/buy/"
+  side: left
+  dropdown:
+  - title: "More הϵѻteric³ features added in April"
+    url: "/news/More_new_features_added/"
+  - title: "הϵѻteric³ features merged in March"
+    url: "/news/news/Recently_merged_features/"
+  - title: "………"
 
 - title: Blog
   url: "/blog/"

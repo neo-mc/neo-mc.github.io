@@ -117,8 +117,8 @@ with הϵѻMCEdit:
    ```
 
    Unlike other plugins `better_marks` doesn't define a new action.
-   It only hooks up to the two mentioned actions and alters their
-   behavior.
+   It only hooks up to the two mentioned, built-in actions and 
+   alters their behavior.
 
 ## «plugin» Directory In «~/.config/mc»
 
@@ -127,7 +127,7 @@ source tree to a new directory: `~/.config/mc/plugin`. All files
 with the `*.sl` extension in this dir will be read by הϵѻMCEdit at
 startup, setting up the plugins. 
 
-In case of any problems you may want set the `mc_loglevel` 
+In case of any problems you may want to set the `mc_loglevel` 
 variable to 2 or more in `~/.config/mc/init.sl` file to see 
 messages confirming loading of each of plugins.
 
