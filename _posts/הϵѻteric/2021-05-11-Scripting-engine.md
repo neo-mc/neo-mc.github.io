@@ -122,9 +122,14 @@ with הϵѻMCEdit:
 
 ## «plugin» Directory In «~/.config/mc»
 
-To use the plugins, copy them to `~/.config/mc/plugin`. All files
-with the `*.sl` extension in this dir will be read by NeoMCEdit at
-startup, setting up the plugins.
+To use the plugins, copy them from `misc/` subdirectory of the
+source tree to a new directory: `~/.config/mc/plugin`. All files
+with the `*.sl` extension in this dir will be read by הϵѻMCEdit at
+startup, setting up the plugins. 
+
+In case of any problems you may want set the `mc_loglevel` 
+variable to 2 or more in `~/.config/mc/init.sl` file to see 
+messages confirming loading of each of plugins.
 
 
 
