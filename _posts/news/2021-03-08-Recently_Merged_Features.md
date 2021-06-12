@@ -11,7 +11,6 @@ categories:
     - news
 tags:
     - features
-    - news
     - mcedit
 breadcrumb: true
 ---

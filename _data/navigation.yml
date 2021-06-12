@@ -10,26 +10,26 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "S-Lang Light Scripting Engine²"
+  - title: "S-Lang Light Scripting Engine ²"
     url: "/news/docs/Scripting-engine/"
-  - title: "Ag/Ack/RipGrep Interface²"
+  - title: "Ag/Ack/RipGrep Interface ²"
     url: "/news/docs/Ag-Ack-Ripgrep-Interface/"
-  - title: "Completion From CTags³"
+  - title: "Completion From CTags ³"
     url: "/news/docs/Completion-From-CTags/"
-  - title: "Other CTags Features³"
-    url: "/news/docs/post-left-sidebar/"
-  - title: "Periodic Command³"
-    url: "/news/docs/periodic-command/"
-  - title: "Peek At Prototype²"
+  - title: "Other CTags Features ³ (WIP)"
+    url: "/unwritten_planned/"
+  - title: "Periodic Command ³ (WIP)"
+    url: "/unwritten_planned/"
+  - title: "Peek At Prototype ²"
     url: "/news/docs/Peek-At-Prototype/"
-  - title: "Terminal Window ²"
-    url: "/news/docs/instruction-station/"
-  - title: "Alternate File Switching"
-    url: "/news/docs/alternate-file-switching/"
-  - title: "Automatic Window Cascading/Tiling"
-    url: "/news/docs/win-cascade-tile/"
-  - title: "Status Message Line"
-    url: "/news/docs/status-message-line/"
+  - title: "Terminal Window ² (WIP)"
+    url: "/unwritten_planned"
+  - title: "Alternate File Switching (WIP)"
+    url: "/unwritten_planned/"
+  - title: "Automatic Window Cascading/Tiling (WIP)"
+    url: "/unwritten_planned/"
+  - title: "Status Message Line (WIP)"
+    url: "/unwritten_planned/"
 
 - title: Documentation
   url: "/documentation/"
@@ -40,29 +40,26 @@
     url: "/unwritten_planned/"
   - title: "Changelog"
     url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
 
 - title: Buy
   url: "/buy/"
   side: left
   dropdown:
-  - title: "More הϵѻteric³ features added in April"
-    url: "/news/More_new_features_added/"
-  - title: "הϵѻteric³ features merged in March"
-    url: "/news/news/Recently_merged_features/"
-  - title: "………"
+  - title: "Purchase"
+    url: "/buy/Purchase/"
+  - title: "Benefits"
+    url: "/buy/Benefits/"
 
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "More הϵѻteric³ features added in April"
-    url: "/news/More_new_features_added/"
+  - title: "April's הϵѻteric³ features"
+    url: "/news/More_New_Features_Added/"
   - title: "הϵѻteric³ features merged in March"
-    url: "/news/news/Recently_merged_features/"
-  - title: "………"
-    url: "/blog/archive/"
+    url: "/news/news/Recently_Merged_Features/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
@@ -73,3 +70,4 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
