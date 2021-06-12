@@ -7,7 +7,6 @@ meta_teaser: "New features added to הϵѻ MCEdit in April – CTags completion,
 teaser: "New features added to הϵѻ MCEdit in April – <em>CTags completion</em>, <em>peek at prototype</em> and <em>status message line</em>."
 breadcrumb: true
 categories: 
-    - changelog
     - news
 tags:
     - features
