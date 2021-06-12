@@ -29,7 +29,7 @@ also **from symbols in a CTags index file** (which is named
 index  that covers **/usr/include/glib-2.0**, you could
 complete **all GLib functions and types**, like so:
 
-{% asciinema_play cp4I3tFfKrLNS9SME7XE2w6Nk %}
+[![asciicast](https://asciinema.org/a/cp4I3tFfKrLNS9SME7XE2w6Nk.svg)](https://asciinema.org/a/cp4I3tFfKrLNS9SME7XE2w6Nk)
 
 Regular completion is bound to **Alt-/** by default, while the
 TAGS completion is **Shift-Tab**.
