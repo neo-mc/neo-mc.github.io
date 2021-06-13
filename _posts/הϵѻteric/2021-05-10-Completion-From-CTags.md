@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Completion From CTags³"
+sidebar: left
 date:   2021-05-10 15:23 +0100
 subheadline: "MCEdit הϵѻteric³ features"
 meta_teaser: "NeoMCEdit has a unique feature - it can complete symbols found in CTags index – the project's symbols like function and variable names. You can use it to easily recall functions declared in libraries used by the project, and not only."
