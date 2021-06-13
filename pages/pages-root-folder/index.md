@@ -8,10 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Ag/Ack/RipGrep integration
+  ;"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove entries. You can grep all sources multiple times, jump to the results and browse all your past searches.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
