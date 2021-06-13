@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Slang Scripting Engine²"
+sidebar: left
 date:   2021-05-11 7:39 +0100
 subheadline: "MCEdit הϵѻteric² features"
 meta_teaser: "MCEdit now supports scripting in S-Lang language. It is a very light solution, yet very functional."
