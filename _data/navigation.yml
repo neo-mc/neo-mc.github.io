@@ -48,7 +48,7 @@
   side: left
   dropdown:
   - title: "Purchase"
-    url: "/buy/Purchase/"
+    url: "/buy/"
   - title: "Benefits"
     url: "/buy/Benefits/"
 

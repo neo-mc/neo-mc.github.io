@@ -2,8 +2,7 @@
 layout: page
 title: "This page isn't there yet :("
 meta_title: "Yet unwritten page error"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "This is a page displayed when a planned but yet not wrjtten document has been requested."
+teaser: "This is a page displayed when a planned but yet not written document has been requested."
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/unwritten_planned/"
