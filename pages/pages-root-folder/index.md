@@ -11,7 +11,7 @@ widget1:
   title: "Ag/Ack/RipGrep integration
   ;"
   url: '/news/docs/Ag-Ack-Ripgrep-Interface/'
-  image: widget-1-302x182.jpg
+  image: widget-1.png
   text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove entries. You can grep all sources multiple times, jump to the results and browse all your past searches.'
 widget2:
   title: "QuickOverview 3rd degree feature"
