@@ -21,7 +21,7 @@ The customization request is:
 
 - also asking for a serious feature, if I'll like the idea – which
   might happen more "easily" if I'll be under pressure of a
-  supporter ;) Besides, I have a catalogue of ~100 ideas for a
+  supporter ;) Besides, I have a catalogue of ~50 ideas for new
   features and a request from a supporter might just work like 
   prioritizing of them,
 

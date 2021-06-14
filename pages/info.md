@@ -2,60 +2,52 @@
 layout: page
 title: "About"
 subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "I've always liked Midnight Commander's internal editor – mcedit. After getting enough of vim half year ago, I've thought – 'Why not improve mcedit so that it can compete vim?'. I've started with adding Python scripting. However, it was pretty big and as MC hackers told me, Midnight Commander is often used on embedded devices with low memory."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+...so I've started from the beginning trying to improve other
+things. I've loved the code, especially how it does inheritance in
+C and GLib data structures. After doing some features, like
+[MultiSearch][1] I've then thought about scripting engine again –
+this time by utilizing the already used library/language: S-Lang.
+After only few hours I've had a listbox window displayed from a
+script. It was very easy and as I've researched, the language is a
+decent one.
 
+I have been submitting all my patches to upstream project.
+However, all my feature-patches have been rejected, only few
+bugfixes have been accepted. It was a big disappointment. I've
+then had to choose, to either abandon the project or start my own
+fork, and since I've loved the code, I've went for the fork.
 
-## Features
+After two or three weeks I've had 120 stars on GitHub. That was
+great news, however, I'm not sure why and how it happened, because
+on the following months I've only had ~15 stars more.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+That felt quite terrible, and after 7 months of coding, an idea
+appeared: why not sell the fork counting on users to not
+redistribute the source code further (well, at least not too
+much;)? I've could be doing what I like and have financial support
+from users, meaning that I've could work on the fork full time and
+that the features that I've added would not be lost forgotten.
 
+So, this website is my attempt at fulfilling the idea. Currently
+I've added 22 new features and have another 30…50 planned :) You
+can read about them from the "הϵѻteric features" menu or from the
+blog archive. Not all features are described yet, but they should
+be within 2 weeks. If you're interested in purchasing הϵѻMCEdit
+you can refer to the [benefits][2] and
+[purchase][3] pages.
 
+The site is based on "Feeling Responsive" Jekyll theme and there
+still might be some pages from it. I should have finished adapting
+the theme within 2 weeks.
 
-## I got inspired by...
+ [1]: /changelog/news/Recently_Merged_Features/
+ [2]: /buy/Benefits
+ [3]: /buy/
+ 
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #

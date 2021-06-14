@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About
+  url: "/info/"
   side: left
 
 - title: "הϵѻteric features"
-  url: "/design/"
+  url: "/neoteric/"
   side: left
   dropdown:
   - title: "S-Lang Light Scripting Engine ²"
