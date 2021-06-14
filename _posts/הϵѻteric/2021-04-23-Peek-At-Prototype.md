@@ -27,12 +27,12 @@ presents this feature:
 
 {% asciinema_play 420119 %}
 
-More, if `Alt-?` will be following pressed, then a **jump to
-implementation** of last requested function's prototype will be
+More, if `Alt-?` will be following pressed, then a jump to
+implementation of last requested function's prototype will be
 done. 
 
-Thus, it will be, eg., in case of C language, to **a .c, not a .h
-file** (if possible), or similar for a given, supported language.
+Thus, it will be, eg., in case of C language, to a .c, not a .h
+file (if possible), or similar for a given, supported language.
 
 Remember that tags **aren't unique** and can repeat but with
 different pointers – for example one to a **.c**, the other to a
@@ -43,18 +43,18 @@ situation.
 
 You could have utilized this by downloading **a library's source
 code** into root of your project tree (**untracked**) – to have
-access **not only** to its function's **prototypes** (accessible
+access not only to its function's prototypes (accessible
 via the symlink to the includes as outlined in  [**Completion From
-CTags**][1]), but also to **implementations** (it
+CTags**][1]), but also to implementations (it
 might be useful, for example, to occasionally be able to
-**exactly** see what a library function does). 
+exactly see what a library function does). 
 
 Eg.: to index **GLib's** source you could've simply cloned it to
-an untracked **subdirectory** in your project's tree (before
+an untracked subdirectory in your project's tree (before
 running the `ctags -e …` command) by: `git clone
 https://gitlab.gnome.org/GNOME/glib.git ~/project/glib-src`, so
 that CTags can access and index it **normally** when   processing
-also the **project's own symbols**.
+also the project's own symbols.
 
 CTags can be run via eg.: the Makefile target as given in the
 [**article on CTags completion**][1], from PeriodicCommand tool. 
