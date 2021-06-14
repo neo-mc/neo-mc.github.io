@@ -57,9 +57,9 @@
   side: left
   dropdown:
   - title: "April's הϵѻteric³ features"
-    url: "/news/More_New_Features_Added/"
+    url: "/changelog/news/More_New_Features_Added/"
   - title: "הϵѻteric³ features merged in March"
-    url: "/news/news/Recently_Merged_Features/"
+    url: "/changelog/news/Recently_Merged_Features/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
