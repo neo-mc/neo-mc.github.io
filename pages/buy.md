@@ -1,0 +1,26 @@
+---
+layout: page
+title: "Purchasing הϵѻMCEdit"
+meta_title: "Puchase your copy of sources today"
+subheadline: "Getting your copy of the source code"
+teaser: "הϵѻMCEdit is a software licensed under GPL. No one can stop you from distributing it further. You may also obtain it somewhere for free – no problem! However, by paying for your copy you'll get «<a href='/buy/benefits/'>benefits</a>» like support and 7 customization requests per year."
+header:
+   image_fullwidth: "header_unsplash_12.jpg"
+permalink: "/buy/"
+---
+
+<p>
+Obtain your הϵѻ MCEdit sources today by issuing a $30 payment to:<br/>
+<p>
+– <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D54B3S7C6HGME">
+PayPal
+</a>,
+</p>
+<p>
+– bank account (given by IBAN – contact me),
+</p>
+<p>
+– or <a href="https://github.com/sponsors/psprint">GitHub sponsors</a>.
+</p>
+
+Don't forget to include your email in the title of the payment.
