@@ -12,7 +12,7 @@ widget1:
   ;"
   url: '/news/docs/Ag-Ack-Ripgrep-Interface/'
   image: widget-1.png
-  text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove entries. You can grep all sources multiple times, jump to the results and browse all your past searches.'
+  text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove single matches. You can grep all sources multiple times, jump to the results and browse all your past searches.'
 widget2:
   title: "QuickOverview 3rd degree feature"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -34,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://tinyletter.com/neomcedit
+  text: Inform me about new updates and הϵѻteric² and ³ features ›
   style: alert
 permalink: /index.html
 #
