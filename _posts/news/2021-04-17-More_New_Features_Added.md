@@ -15,8 +15,8 @@ tags:
     - mcedit
 ---
 
-A set of new features have been recently merged to הϵѻMCEdit. Here's a
-incomplete list of them:
+A set of new features have been recently merged to הϵѻMCEdit.
+Here's a incomplete list of them:
 
 ## 1. **Completion from Ctags**
 
@@ -32,18 +32,18 @@ completion is `Shift-Tab`.
 
 ## 2. **Peek at prototype**
 
-If pointer will be placed at a function name and `Ctrl-Alt-p` will be pressed, then
-a small window will pop-up with its signature:
+If pointer will be placed at a function name and `Ctrl-Alt-p` will
+be pressed, then a small window will pop-up with its signature:
 
 {% asciinema_play IoguysLw2wO8BUzddWRW9k7lG %}
 
-More, if `Alt-?` will be pressed, then a jump to last shown function's implementation
-will be done.
+More, if `Alt-?` will be pressed, then a jump to last shown
+function's implementation will be done.
 
 
 ## 3. **Status message**
 
-A feature that has been missing in MCEdit (and MC filemanager) – a status message window:
+A feature that has been missing in MCEdit (and MC filemanager) – a
+status message window:
 
 {% asciinema_play SMFkQjO3ju3nObNmcvefhPWvy %}
-
