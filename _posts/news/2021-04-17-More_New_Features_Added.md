@@ -26,8 +26,8 @@ could complete all GLib functions and types, like so:
 
 {% asciinema_play cp4I3tFfKrLNS9SME7XE2w6Nk %}
 
-Regular completion is bound to Alt-/ by default, while the TAGS
-completion is Shift-Tab.
+Regular completion is bound to `Alt-/` by default, while the TAGS
+completion is `Shift-Tab`.
 
 
 ## 2. **Peek at prototype**
@@ -43,7 +43,7 @@ will be done.
 
 ## 3. **Status message**
 
-A feature that has been missing in MCEdit (and MC filemanager) – a status message:
+A feature that has been missing in MCEdit (and MC filemanager) – a status message window:
 
 {% asciinema_play SMFkQjO3ju3nObNmcvefhPWvy %}
 
