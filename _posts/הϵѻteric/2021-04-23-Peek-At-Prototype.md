@@ -20,23 +20,24 @@ tags:
 
 # Using The Feature
 
-If text pointer will be placed at a function name and `Ctrl-s`
+If the cursor will be placed at a function name and `Ctrl-s`
 will be pressed, then a **small window containing its signature
 will pop-up** at bottom of the display. Here's an asciicast which
 presents this feature: 
 
 {% asciinema_play 420119 %}
 
-More, if **Alt-?** will be following pressed, then a **jump to
+More, if `Alt-?` will be following pressed, then a **jump to
 implementation** of last requested function's prototype will be
 done. 
 
-Thus, it will be to, i.e.: in case of C language, **a .c, not a .h
+Thus, it will be, eg., in case of C language, to **a .c, not a .h
 file** (if possible), or similar for a given, supported language.
+
 Remember that tags **aren't unique** and can repeat but with
 different pointers – for example one to a **.c**, the other to a
-**.h** file. NeoMCEdit in general prefers **C**-file unless the
-jump is limited to be within the same file from the beginning.
+**.h** file. NeoMCEdit in general prefers **C**-file in such
+situation.
 
 ## Accessing Libraries' Implementations
 
