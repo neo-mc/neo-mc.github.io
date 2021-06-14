@@ -32,7 +32,7 @@
     url: "/unwritten_planned/"
 
 - title: Documentation
-  url: "/documentation/"
+  url: "/unwritten_planned/"
   side: left
   dropdown:
   - title: "Keybindings"

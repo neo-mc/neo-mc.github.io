@@ -28,9 +28,9 @@ with the hosting application (meaning that it's easy to develop).
 
 # API Functions Documentation
 
-Below is a list of functions exported to the S-Lang interpreter. The
-“cure_” prefix stands for “current editor”. All functions are in the
-**mc** namespace, i.e.: `mc->func()`.
+Below is a list of functions exported to the S-Lang interpreter
+(also available as [PDF](/assets/slang_api.pdf)). The “cure_” prefix stands for “current editor”.
+All functions are in the **mc** namespace, i.e.: `mc->func()`.
 
 1. Movement – #1 function.
    - cure_cursor_move (offset)

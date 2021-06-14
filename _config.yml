@@ -113,6 +113,8 @@ defaults:
       sidebar:  true   		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: psprint     # Default author for pages
+      header:
+        image_fullwidth: "header_unsplash_12.jpg"
   -
     scope:
       path: ''
@@ -122,6 +124,8 @@ defaults:
       sidebar: true     # Possible values › left, right › by default there will be no sidebar
       comments: true
       author: psprint   # Default author for posts
+      header:
+        image_fullwidth: "header_unsplash_12.jpg"
 
 
 
