@@ -21,7 +21,7 @@ breadcrumb: true
 
 A very light but functional scripting interpreter in הϵѻMCEdit – S-Lang programming language:
 
-[![asciicast](https://asciinema.org/a/395648.svg)](https://asciinema.org/a/395648)
+{% asciinema_play 395648 %}
 
 The current API (exported S-Lang functions) is available at 
 
@@ -33,7 +33,7 @@ The current API (exported S-Lang functions) is available at
 
 Alt-\ and Alt-Shift-\ to go to next/prev tag, and Alt-* to directly jump to file and line of declaration tag of word under pointer:
 
-[![asciicast](https://asciinema.org/a/395637.svg)](https://asciinema.org/a/395637)
+{% asciinema_play 395637 %}
 
 <br/>
 
@@ -41,7 +41,7 @@ Alt-\ and Alt-Shift-\ to go to next/prev tag, and Alt-* to directly jump to file
 
 After a ctags command / jump, a small window with an overview of surrounding tags is displayed:
 
-[![asciicast](https://asciinema.org/a/395624.svg)](https://asciinema.org/a/395624)
+{% asciinema_play 395624 %}
 
 <br/>
 
@@ -49,7 +49,7 @@ After a ctags command / jump, a small window with an overview of surrounding tag
 
 The TAGS file can be set up to date by PeriodicCommand function and automatic tags reloading:
 
-[![asciicast](https://asciinema.org/a/395644.svg)](https://asciinema.org/a/395644)
+{% asciinema_play 395644 %}
 
 <br/>
 
@@ -57,6 +57,6 @@ The TAGS file can be set up to date by PeriodicCommand function and automatic ta
 
 An additional input is added under every listbox which can be used to filter its list. It works with ALL listboxes, e.g.:
 
-[![asciicast](https://asciinema.org/a/395632.svg)](https://asciinema.org/a/395632)
+{% asciinema_play 395632 %}
 
 <br/>

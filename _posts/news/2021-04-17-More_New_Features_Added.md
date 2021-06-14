@@ -24,7 +24,7 @@ It's possible to complete not from entered words, but from Ctags
 file – e.g.: for a project that covers `/usr/include/glib`, you
 could complete all GLib functions and types, like so:
 
-[![asciicast](https://asciinema.org/a/cp4I3tFfKrLNS9SME7XE2w6Nk.svg)](https://asciinema.org/a/cp4I3tFfKrLNS9SME7XE2w6Nk)
+{% asciinema_play cp4I3tFfKrLNS9SME7XE2w6Nk %}
 
 Regular completion is bound to Alt-/ by default, while the TAGS
 completion is Shift-Tab.
@@ -36,7 +36,7 @@ completion is Shift-Tab.
 If pointer will be placed at a function name and `Ctrl-Alt-p` will be pressed, then
 a small window will pop-up with its signature:
 
-[![asciicast](https://asciinema.org/a/IoguysLw2wO8BUzddWRW9k7lG.svg)](https://asciinema.org/a/IoguysLw2wO8BUzddWRW9k7lG)
+{% asciinema_play IoguysLw2wO8BUzddWRW9k7lG %}
 
 More, if `Alt-?` will be pressed, then a jump to last shown function's implementation
 will be done.
@@ -46,6 +46,6 @@ will be done.
 
 A feature that has been missing in MCEdit (and MC filemanager) – a status message:
 
-[![asciicast](https://asciinema.org/a/SMFkQjO3ju3nObNmcvefhPWvy.svg)](https://asciinema.org/a/SMFkQjO3ju3nObNmcvefhPWvy)
+{% asciinema_play SMFkQjO3ju3nObNmcvefhPWvy %}
 
 <br/>
