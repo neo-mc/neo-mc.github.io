@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Recently merged features in הϵѻ MCEdit"
+title:  "Recently merged features in הϵѻMCEdit"
 date:   2021-03-08 3:01 +0100
 subheadline: "MCEdit הϵѻteric features"
-meta_teaser: "New features added to הϵѻ MCEdit in March – scripting support, CTags quick jumps, QuickPreview window, periodic command support, MultiSearch grepping of any listbox."
-teaser: "New features added to הϵѻ MCEdit in March – <b>scripting support</b>, <b>CTags quick jumps</b>, <b>QuickPreview window</b>, <b>periodic command</b> support, <b>MultiSearch</b> grepping of any listbox."
+meta_teaser: "New features added to הϵѻMCEdit in March – scripting support, CTags quick jumps, QuickPreview window, periodic command support, MultiSearch grepping of any listbox."
+teaser: "New features added to הϵѻMCEdit in March – <b>scripting support</b>, <b>CTags quick jumps</b>, <b>QuickPreview window</b>, <b>periodic command</b> support, <b>MultiSearch</b> grepping of any listbox."
 breadcrumb: true
 categories: 
     - changelog
@@ -15,17 +15,17 @@ tags:
 breadcrumb: true
 ---
 
-MCEdit speeds up gaining multitude of new features. Here is a brief look at some of them:
+הϵѻMCEdit speeds up gaining multitude of new features. Here is a brief look at some of them:
 
 ## 1. **Scripting support**
 
-A very light but functional scripting interpreter in MCEdit – S-Lang programming language:
+A very light but functional scripting interpreter in הϵѻMCEdit – S-Lang programming language:
 
 [![asciicast](https://asciinema.org/a/395648.svg)](https://asciinema.org/a/395648)
 
 The current API (exported S-Lang functions) is available at 
 
-[https://github.com/neo-mc/neo-mc/blob/main/doc/slang_api.pdf](https://github.com/neo-mc/neo-mc/blob/main/doc/slang_api.pdf).
+[https://neomcedit.software/assets/slang_api.pdf](https://https://neomcedit.software/assets/slang_api.pdf).
 
 <br/>
 

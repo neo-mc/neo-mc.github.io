@@ -3,8 +3,8 @@ layout: page
 title:  "More new features added"
 date:   2021-04-03 9:43 +0100
 subheadline: "MCEdit הϵѻteric features"
-meta_teaser: "New features added to הϵѻ MCEdit in April – CTags completion, peek at prototype and status message line."
-teaser: "New features added to הϵѻ MCEdit in April – <em>CTags completion</em>, <em>peek at prototype</em> and <em>status message line</em>."
+meta_teaser: "New features added to הϵѻMCEdit in April – CTags completion, peek at prototype and status message line."
+teaser: "New features added to הϵѻMCEdit in April – <em>CTags completion</em>, <em>peek at prototype</em> and <em>status message line</em>."
 breadcrumb: true
 categories: 
     - news
@@ -14,7 +14,7 @@ tags:
     - mcedit
 ---
 
-A set of new features have been recently merged to הϵѻ MC. Here's a
+A set of new features have been recently merged to הϵѻMCEdit. Here's a
 incomplete list of them:
 
 ## 1. **Completion from Ctags**
