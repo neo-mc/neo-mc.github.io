@@ -110,8 +110,8 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: true
+      sidebar:  true   		# Possible values › left, right › by default there will be no sidebar
+      comments: false
       author: psprint     # Default author for pages
   -
     scope:
@@ -119,8 +119,8 @@ defaults:
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
+      sidebar: true     # Possible values › left, right › by default there will be no sidebar
+      comments: true
       author: psprint   # Default author for posts
 
 

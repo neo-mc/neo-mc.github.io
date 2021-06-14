@@ -3,14 +3,14 @@ layout: page
 title: "Purchasing הϵѻMCEdit"
 meta_title: "Puchase your copy of sources today"
 subheadline: "Getting your copy of the source code"
-teaser: "הϵѻMCEdit is a software licensed under GPL. No one can stop you from distributing it further. You may also obtain it somewhere for free – no problem! However, by paying for your copy you'll get «<a href='/buy/benefits/'>benefits</a>» like support and 7 customization requests per year."
+teaser: "הϵѻMCEdit is a software licensed under GPL. No one can stop you from distributing it further. You may also obtain it somewhere for free – no problem! However, by paying for your copy you'll get «<a href='/buy/Benefits/'>benefits</a>» like support and 7 customization requests per year."
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 permalink: "/buy/"
 ---
 
 <p>
-Obtain your הϵѻ MCEdit sources today by issuing a $30 payment to:<br/>
+Obtain your הϵѻ MCEdit sources today by issuing a $30 or €25 payment to:<br/>
 <p>
 – <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D54B3S7C6HGME">
 PayPal
