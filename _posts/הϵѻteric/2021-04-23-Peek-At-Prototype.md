@@ -25,7 +25,7 @@ will be pressed, then a **small window containing its signature
 will pop-up** at bottom of the display. Here's an asciicast which
 presents this feature: 
 
-{% asciinema_play 419872 %}
+{% asciinema_play 420119 %}
 
 More, if **Alt-?** will be following pressed, then a **jump to
 implementation** of last requested function's prototype will be
@@ -59,6 +59,6 @@ CTags can be run via eg.: the Makefile target as given in the
 [**article on CTags completion**][1], from PeriodicCommand tool. 
 
 The above asciicast utilizes this which is being presented by the
-jump to the `g_free()` implementation inside GLib sources.
+jump to the `g_strsplit()` implementation inside GLib sources.
 
  [1]: {{ site.url }}/news/docs/Completion-From-CTags/ "Level 3 הϵѻteric feature"
