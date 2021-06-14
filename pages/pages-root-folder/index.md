@@ -15,12 +15,12 @@ widget1:
   text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove single matches. You can grep all sources multiple times, jump to the results and browse all your past searches.'
 widget2:
   title: "QuickOverview 3rd degree feature"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/unwritten_planned/'
   text: "הϵѻMCEdit has many advanced features, called הϵѻteric³ ones. One of them is QuickOverview – a small window displayed after any jump in the buffer. It holds names of surrounding functions. No other editor has this feature, hence it's labeled as 3rd degree."
   image: widget-2.png
 widget3:
   title: "הϵѻteric features of 1st, 2nd and 3rd degree.,"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/unwritten_planned/'
   image: widget-3.png
   text: 'New features are of 3 degrees - the greater, the more advanced one is. Examples of 3rd degree features are: completing symbols from CTags index, periodic background command, selection history; 2nd degree are i.a.: scripting engine, terminal window and more.'
 #

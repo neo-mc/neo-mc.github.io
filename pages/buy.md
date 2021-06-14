@@ -17,7 +17,7 @@ PayPal
 </a>,
 </p>
 <p>
-– bank account (given by IBAN – contact me),
+– bank account (given by IBAN – <a href="mailto:sgniazdowski@gmail.com">contact</a> me),
 </p>
 <p>
 – or <a href="https://github.com/sponsors/psprint">GitHub sponsors</a>.
