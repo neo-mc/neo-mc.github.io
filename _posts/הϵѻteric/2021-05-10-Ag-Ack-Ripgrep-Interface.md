@@ -52,6 +52,15 @@ search finishes a window with results will open, like above.
 To jump to the pointed location, press Enter. You may also edit the
 results – by pressing Delete to remove an entry from the list.
 
+## Viewing Whole Result Lines
+
+If the result line is too long to fit into the screen you can view 
+it whole by pressing F3 (i.e.: the View action of listbox) on it. A
+new window will open at bottom of the screen containing the complete
+line, eg.:
+
+![Extended view of result line](/assets/img/grep_extended_view.png)
+
 # Recalling Previous Searches
 
 Press `Alt-minus` to move to the already done, most recent search's
