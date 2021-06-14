@@ -25,17 +25,18 @@ will be pressed, then a **small window containing its signature
 will pop-up** at bottom of the display. Here's an asciicast which
 presents this feature: 
 
-[![asciicast](https://asciinema.org/a/419872.svg)](https://asciinema.org/a/419872)
-
+{% asciinema_play 419872 %}
 
 More, if **Alt-?** will be following pressed, then a **jump to
 implementation** of last requested function's prototype will be
-done. Thus, it will be to, i.e.: in case of C language, **a .c,
-not a .h file** (if possible), or similar for a given, supported
-language. Remember that tags **aren't unique** and can repeat but
-with different pointers – for example one to a **.c**, the other
-to a **.h** file. NeoMCEdit in general prefers **C**-file unless
-the jump is limited to be within the same file from the beginning.
+done. 
+
+Thus, it will be to, i.e.: in case of C language, **a .c, not a .h
+file** (if possible), or similar for a given, supported language.
+Remember that tags **aren't unique** and can repeat but with
+different pointers – for example one to a **.c**, the other to a
+**.h** file. NeoMCEdit in general prefers **C**-file unless the
+jump is limited to be within the same file from the beginning.
 
 ## Accessing Libraries' Implementations
 
@@ -45,15 +46,17 @@ access **not only** to its function's **prototypes** (accessible
 via the symlink to the includes as outlined in  [**Completion From
 CTags**][1]), but also to **implementations** (it
 might be useful, for example, to occasionally be able to
-**exactly** see what a library function does). Eg.: to index
-**GLib's** source you could've simply cloned it to an untracked
-**subdirectory** in your project's tree (before running the `ctags
--e …` command) by: `git clone
+**exactly** see what a library function does). 
+
+Eg.: to index **GLib's** source you could've simply cloned it to
+an untracked **subdirectory** in your project's tree (before
+running the `ctags -e …` command) by: `git clone
 https://gitlab.gnome.org/GNOME/glib.git ~/project/glib-src`, so
 that CTags can access and index it **normally** when   processing
-also the **project's own symbols**, being run via eg.: the
-Makefile target as given in the [**article on CTags
-completion**][1]. 
+also the **project's own symbols**.
+
+CTags can be run via eg.: the Makefile target as given in the
+[**article on CTags completion**][1], from PeriodicCommand tool. 
 
 The above asciicast utilizes this which is being presented by the
 jump to the `g_free()` implementation inside GLib sources.
