@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Change is good!"
-meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "History and changelog of Feeling Responsive Theme"
-header:
-   image_fullwidth: "header_unsplash_9.jpg"
+meta_title: "הϵѻMCEdit Changelog"
+subheadline: "הϵѻMCEdit Changelog"
+teaser: "History and changelog of הϵѻMCEdit, Midnight Commander's fork"
 permalink: "/changelog/"
 ---
 
