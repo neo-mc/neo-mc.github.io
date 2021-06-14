@@ -20,7 +20,7 @@ posts subheadlines) explained:
 </p>
 <p>
 3. "הϵѻteric<b>³</b>" – a prominent, possibly unfound 
-anywhere else, innovative feature.
+anywhere else feature.
 </p>
 
 
