@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "More new features added"
+title:  "April's הϵѻteric³ features"
 date:   2021-04-03 9:43 +0100
 subheadline: "MCEdit הϵѻteric features"
 meta_teaser: "New features added to הϵѻMCEdit in April – CTags completion, peek at prototype and status message line."

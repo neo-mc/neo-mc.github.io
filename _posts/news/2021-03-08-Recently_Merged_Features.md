@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Recently merged features in הϵѻMCEdit"
+title:  "הϵѻteric³ features merged in March"
 date:   2021-03-08 3:01 +0100
 subheadline: "MCEdit הϵѻteric features"
 meta_teaser: "New features added to הϵѻMCEdit in March – scripting support, CTags quick jumps, QuickPreview window, periodic command support, MultiSearch grepping of any listbox."
