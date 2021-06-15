@@ -10,7 +10,7 @@ permalink: "/buy/"
 ---
 
 <p>
-Obtain your הϵѻ MCEdit sources today by issuing a $30 or €25 payment to:<br/>
+Obtain your הϵѻ MCEdit sources today by issuing a $20 or €15 payment to:<br/>
 <p>
 – <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D54B3S7C6HGME">
 PayPal
