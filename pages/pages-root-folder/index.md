@@ -21,7 +21,7 @@ widget3:
   title: "הϵѻteric features of 1st, 2nd and 3rd degree"
   url: '/neoteric/'
   image: widget-3.png
-  text: 'New features are of 3 degrees - the greater, the more advanced one is. Examples of 3rd degree features are: completing symbols from CTags index, periodic background command, selection history; 2nd degree are i.a.: scripting engine, terminal window and more.'
+  text: 'New features are of 3 degrees - the greater, the more advanced one is. Examples of 3rd degree features are: <a href="https://neomcedit.software/news/docs/completion-from-ctags/">completing symbols from CTags index</a>, periodic background command, selection history; 2nd degree are i.a.: <a href="https://neomcedit.software/news/docs/scripting-engine/">scripting engine</a>, terminal window and more.'
 #
 # Use the call for action to show a button on the frontpage
 #
