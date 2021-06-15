@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Purchasing הϵѻMCEdit"
-meta_title: "Puchase your copy of sources today"
-subheadline: "Getting your copy of the source code"
-teaser: "When purchasing הϵѻMCEdit you will receive the source code and support plus 7 customization requests per year."
+meta_title: "Puchase your הϵѻMCEdit today"
+teaser: "When purchasing הϵѻMCEdit you will receive statically linked binary, source code and support plus 7 customization requests per year."
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 permalink: "/buy/Benefits/"
