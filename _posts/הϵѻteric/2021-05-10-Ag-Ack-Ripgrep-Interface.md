@@ -38,7 +38,7 @@ side by side with the query string, eg.:
 {% include alert text="GPtrArray --cc -i # search only C/C++ files case insensitively" %}
 
 You can also normally pass on the directory to search in:
-הϵѻהϵѻ
+
 {% include alert text="GPtrArray --cc -i glib # search in ./glib subdirectory " %}
 
 
