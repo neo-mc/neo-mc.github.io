@@ -30,8 +30,8 @@ Complete list of tags-related features is:
 
 ## Previous/Next tag
 
-To jump to the next symbol press `Alt-|`, to the previous –
-`Alt-\`. 
+To jump to the next symbol press `Alt-\`, to the previous –
+`Alt-|`. 
 
 Notice the mnemotechnique – the previous jump is via Shift
 key-containing shortcut while the next-jump is not. Shift is a key
