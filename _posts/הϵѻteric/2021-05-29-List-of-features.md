@@ -18,14 +18,14 @@ tags:
 ---
 
 1. <a href="/unwritten_planned">Periodic command</a> (alt-shift-i).
-2. <a href="/news/docs/Ag-Ack-Ripgrep-Interface/">Ack/Ag/Rg interface</a> (alt-minus, alt-underscore, alt-equal).
-3. <a href="/news/docs/Completion-From-CTags/">Ctags completion</a> (shift-tab) and all tags listing (ctrl-alt-t).
+2. <a href="/news/docs/Ag-Ack-Ripgrep-Interface/">Ack/Ag/Rg interface</a> (`alt-minus`, `alt-underscore`, `alt-equal`).
+3. <a href="/news/docs/Completion-From-CTags/">Ctags completion</a> (`shift-tab`) and all tags listing (`ctrl-alt-t`).
 4. Display file IDs and `ctrl-x 1…0` quick window switching via them.
-5. Last selection restore with history (alt-shift-9, alt-plus).
+5. Last selection restore with history (`alt-shift-9`, `alt-plus`).
 6. Peek at prototype (`ctrl-s`, `alt-?` to jump to definition).
 7. Slang scripting engine (plugins in `~/.config/mc/plugin`, init script at `…/mc/init.sl`).
 8. Open file globbing (eg. enter "*.c" to open multiple C files).
-9. QuickOverview small popup window on any jumps (eg. on page-up).
+9. QuickOverview small popup window on any jumps (eg. on `page-up`).
 10. Rich ExternalCommand window (`alt-x`).
 11. <a href="/news/docs/Other-CTags-Features/">Quick jumps to tags</a> (`alt-|` and `alt-\`).
 12. Terminal window (called instruction station; `ctrl-insert`).
