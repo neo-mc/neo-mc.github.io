@@ -36,7 +36,9 @@ tags:
     their sources.
 17. Window cascading (`alt-ctrl-c`) and tiling (`alt-ctrl-t`).
 18. Centering of view (`alt-c`).
-19. Four S-Lang plugins: commentify (`alt-i`), case-modifying
+19. Quick searching for the word under the cursor (`alt-ctrl-6` –
+    up, `alt-shift-6` - forward) 
+20. Four S-Lang plugins: commentify (`alt-i`), case-modifying
     (toupper on `ctrl-alt-u`, capitalise / `alt-shift-c`,
     tolower / `alt-shift-l`), mark-line-up/down improving,
     incrementing and decrementing integer (`ctrl-alt-a`,
