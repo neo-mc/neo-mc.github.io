@@ -26,7 +26,7 @@ tags:
 7. Slang scripting engine (plugins in `~/.config/mc/plugin`, init script at `…/mc/init.sl`).
 8. Open file globbing (eg. enter "*.c" to open multiple C files).
 9. QuickOverview small popup window on any jumps (eg. on `page-up`).
-10. Rich ExternalCommand window (`alt-x`).
+10. Rich ExternalCommand window (`alt-shift-x`).
 11. <a href="/news/docs/Other-CTags-Features/">Quick jumps to tags</a> (`alt-|` and `alt-\`).
 12. Terminal window (called instruction station; `ctrl-insert`).
 13. "Other file" switching between headers and sources (`alt-a`, for "alternate").
