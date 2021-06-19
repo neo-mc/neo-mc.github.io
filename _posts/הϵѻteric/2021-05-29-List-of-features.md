@@ -17,7 +17,7 @@ tags:
     - mcedit
 ---
 
-1. <a href="/unwritten_planned">Periodic command</a> (alt-shift-i).
+1. <a href="/unwritten_planned">Periodic command</a> (`alt-shift-i`).
 2. <a href="/news/docs/Ag-Ack-Ripgrep-Interface/">Ack/Ag/Rg interface</a> (`alt-minus`, `alt-underscore`, `alt-equal`).
 3. <a href="/news/docs/Completion-From-CTags/">Ctags completion</a> (`shift-tab`) and all tags listing (`ctrl-alt-t`).
 4. Display file IDs and `ctrl-x 1…0` quick window switching via them.
