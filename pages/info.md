@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "Background & Motivation"
 teaser: "I've always liked Midnight Commander's internal editor – mcedit. After getting enough of vim half year ago, I've thought – 'Why not improve mcedit so that it can compete vim?'. I've started with adding Python scripting. However, it was pretty big and as MC hackers told me, Midnight Commander is often used on embedded devices with low memory."
 permalink: "/info/"
 header:
