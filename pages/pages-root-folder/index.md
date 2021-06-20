@@ -14,7 +14,7 @@ widget1:
   text: 'Ever used `:grep` in Vim? הϵѻMCEdit has similar, decent support for it, with history that remembers all your previous searches with results, and ability to edit them, ie. to remove single matches. You can grep all sources multiple times, jump to the results and browse all your past searches.'
 widget2:
   title: "QuickOverview 3rd degree feature"
-  url: '/unwritten_planned/'
+  url: '/news/docs/QuickOverview_window/'
   text: "הϵѻMCEdit has many advanced features, called הϵѻteric³ ones. One of them is QuickOverview – a small window displayed after any jump in the buffer. It holds names of surrounding functions. No other editor has this feature, hence it's labeled as 3rd degree."
   image: widget-2.png
 widget3:
