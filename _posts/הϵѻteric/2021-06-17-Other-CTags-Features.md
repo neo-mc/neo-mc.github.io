@@ -3,7 +3,7 @@ layout: page
 title:  "Other CTags Features²"
 sidebar: left
 date:   2021-05-20 17:35 +0100
-subheadline: "MCEdit הϵѻteric² features"
+subheadline: "הϵѻteric² Features"
 meta_teaser: "NeoMCEdit can jump to previous/next CTags symbol and also to a symbol under the cursor, etc."
 teaser: "הϵѻMCEdit can jump to previous/next CTags symbol and also to a symbol under the cursor, etc."
 breadcrumb: true

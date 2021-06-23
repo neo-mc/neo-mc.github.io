@@ -3,7 +3,7 @@ layout: page
 title:  "QuickOverview Window"
 sidebar: left
 date:   2021-05-29 8:19 +0100
-subheadline: "MCEdit הϵѻteric features"
+subheadline: "הϵѻteric Features"
 meta_teaser: "NeoMCEdit has support for a special feature – showing of a small window with names of the current and of the 4 surrounding functions, which lets you quickly orientate in the code."
 teaser: "הϵѻMCEdit has support for a special feature – showing of a small window with names of the current and of the 4 surrounding functions, which lets you quickly orientate in the code."
 breadcrumb: true

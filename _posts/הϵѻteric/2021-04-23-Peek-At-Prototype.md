@@ -3,7 +3,7 @@ layout: page
 title:  "Peek At Prototype"
 sidebar: left
 date:   2021-05-10 13:17 +0100
-subheadline: "MCEdit הϵѻteric² features"
+subheadline: "הϵѻteric² Features"
 meta_teaser: "NeoMCEdit has a support for showing the signature of a function under the pointer, in a small window appearing at bottom of display."
 teaser: "הϵѻMCEdit has a support for showing the signature of a function under the pointer, in a small window appearing at bottom of display."
 breadcrumb: true

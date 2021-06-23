@@ -3,7 +3,7 @@ layout: page
 title:  "Ag/Ack/RipGrep interface³"
 sidebar: left
 date:   2021-05-10 11:37 +0100
-subheadline: "MCEdit הϵѻteric³ features"
+subheadline: "הϵѻteric³ Features"
 meta_teaser: "NeoMCEdit has a support for running any grep tool (like RipGrep or traditional grep) and parsing its output, allowing for quick navigation in projects."
 teaser: "הϵѻMCEdit has a support for running any <b>grep tool</b> (like <b>RipGrep</b> or traditional grep) and parsing its output, allowing for quick navigation in projects."
 breadcrumb: true

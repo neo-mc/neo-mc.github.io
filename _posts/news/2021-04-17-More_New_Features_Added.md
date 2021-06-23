@@ -2,7 +2,7 @@
 layout: page
 title:  "April's הϵѻteric³ features"
 date:   2021-04-03 9:43 +0100
-subheadline: "MCEdit הϵѻteric features"
+subheadline: "הϵѻteric Features"
 meta_teaser: "New features added to הϵѻMCEdit in April – CTags completion³, peek at prototype² and status message line."
 teaser: "New features added to הϵѻMCEdit in April – <b>CTags completion</b>³, <b>peek at prototype</b>² and <b>status message line</b>."
 breadcrumb: true
