@@ -37,5 +37,3 @@ could they expect from a highlighted feature, and I would be able
 to better prioritize them (when programming).
 
 </p>
-
-</p>
