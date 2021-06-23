@@ -16,11 +16,11 @@ Here are the feature-describing attributes explained:
 1. "הϵѻteric" – a regular, normal new feature (first level),
 </p>
 <p>
-2. "הϵѻteric<b>²</b>" – an advanced, not trivial feature existing
+2. "הϵѻteric<b style="font-size:1.2em">²</b>" – an advanced, not trivial feature existing
    also in other editors (level 2),
 </p>
 <p>
-3. "הϵѻteric<b>³</b>" – a prominent, possibly unfound 
+3. "הϵѻteric<b style="font-size:1.2em">³</b>" – a prominent, possibly unfound 
 anywhere else feature (level 3).
 </p>
 
