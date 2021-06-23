@@ -3,9 +3,9 @@ layout: page
 title:  "Complete List Of Features"
 sidebar: left
 date:   2021-05-29 8:19 +0100
-subheadline: "הϵѻteric Features"
-meta_teaser: "NeoMCEdit has currently 23 new features added over upstream MCEdit. Here is a complete list of them."
-teaser: "הϵѻMCEdit has currently 23 new features added over upstream MCEdit. Here is a complete list of them."
+subheadline: "All הϵѻteric Features"
+meta_teaser: "NeoMCEdit has currently 23 new features added to the upstream MCEdit. Here is a complete list of them."
+teaser: "הϵѻMCEdit has currently 23 new features added to the upstream MCEdit. Here is a complete list of them."
 breadcrumb: true
 categories: 
     - news
