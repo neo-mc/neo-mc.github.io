@@ -67,16 +67,3 @@ To list tags for current file, that are:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
